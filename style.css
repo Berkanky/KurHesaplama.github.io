@@ -1,0 +1,32 @@
+#ilk{
+    border-radius: 15px;
+}
+#iki{
+    border-radius: 15px;
+}
+#deger{
+    border-radius: 15px;
+}
+
+#fbody{
+    border-radius: 15px;
+    margin-top:12%;
+}
+
+
+#body{
+    background-image:url("https://source.unsplash.com/1600x900/?New York");
+}
+#fbodytwo{
+    background-color:#000000d0;
+    opacity:;
+    border-radius: 15px;
+}
+h4{
+    color:white;
+}
+span{
+    color:White;
+    font-size:20px;
+    font-family: "Times New Roman", Times, serif;
+}
